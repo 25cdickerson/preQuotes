@@ -1,0 +1,6 @@
+<resources>
+    <layout id="MainLayout">
+        <bitmap id = "prefontaineImg" filename="../drawables/Prefontaine.png" x= "center" y = "center" />
+        <label id = "newLabel" text = "@Strings.q" y = "center" x = "center"/>
+    </layout>
+</resources>
