@@ -33,12 +33,10 @@ class preQuotesView extends WatchUi.View {
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
 
+        // Use Random Number to get Random Quote
         var newQuote = quotes[rand];
 
-        //var quote = WatchUi.loadResource(Rez.Strings.q);
-        /*var quote = WatchUi.loadResource(Rez.Strings.q) + newQuote;
-        System.println(quote);
-        System.println(WatchUi.loadResource(Rez.Strings.q));*/
+        // Set color and print quote
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
         dc.drawText(dc.getWidth() / 2, dc.getHeight() / 2, Graphics.FONT_SYSTEM_XTINY, newQuote, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
     }
