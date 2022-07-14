@@ -10,3 +10,4 @@ This app is for entertainment purposes. Whenever the widget is opened on a Garmi
 Monkey C is an object-oriented language built from the ground up by Garmin, designed for easy app development on their wearable devices. If you've worked with dynamic languages in the past like Java™, PHP, Ruby, or Python™, Monkey C should be very familiar.
 
 Available on the Garmin IQ Store Now!
+https://apps.garmin.com/en-US/apps/d587422f-e47d-4a55-8c22-e1914643b637
