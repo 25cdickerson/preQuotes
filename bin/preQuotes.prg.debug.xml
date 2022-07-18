@@ -8,38 +8,38 @@
 <entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="3" lineNum="16" parent="globals/preQuotesApp" pc="268435484" symbol="onStop"/>
 <entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="4" lineNum="20" parent="globals/preQuotesApp" pc="268435489" symbol="getInitialView"/>
 <entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="4" lineNum="21" parent="globals/preQuotesApp" pc="268435493" symbol="getInitialView"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="5" lineNum="5" parent="globals/preQuotesApp" pc="268436359" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="5" lineNum="5" parent="globals/preQuotesApp" pc="268436359" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="5" lineNum="5" parent="globals/preQuotesApp" pc="268436424" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="5" lineNum="5" parent="globals/preQuotesApp" pc="268436424" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="6" lineNum="26" parent="globals" pc="268435531" symbol="getApp"/>
 <entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesApp.mc" id="6" lineNum="27" parent="globals" pc="268435543" symbol="getApp"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="8" lineNum="16" parent="globals/preQuotesView" pc="268435560" symbol="initialize"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="8" lineNum="17" parent="globals/preQuotesView" pc="268435564" symbol="initialize"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="9" lineNum="21" parent="globals/preQuotesView" pc="268435583" symbol="onLayout"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="9" lineNum="22" parent="globals/preQuotesView" pc="268435587" symbol="onLayout"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="10" lineNum="28" parent="globals/preQuotesView" pc="268435625" symbol="onShow"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="32" parent="globals/preQuotesView" pc="268435630" symbol="onUpdate"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="34" parent="globals/preQuotesView" pc="268435634" symbol="onUpdate"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="37" parent="globals/preQuotesView" pc="268435654" symbol="onUpdate"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="40" parent="globals/preQuotesView" pc="268435673" symbol="onUpdate"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="41" parent="globals/preQuotesView" pc="268435709" symbol="onUpdate"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="12" lineNum="47" parent="globals/preQuotesView" pc="268435795" symbol="onHide"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="8" lineNum="31" parent="globals/preQuotesView" pc="268435560" symbol="initialize"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="8" lineNum="32" parent="globals/preQuotesView" pc="268435564" symbol="initialize"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="9" lineNum="36" parent="globals/preQuotesView" pc="268435583" symbol="onLayout"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="9" lineNum="37" parent="globals/preQuotesView" pc="268435587" symbol="onLayout"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="10" lineNum="43" parent="globals/preQuotesView" pc="268435625" symbol="onShow"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="47" parent="globals/preQuotesView" pc="268435630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="49" parent="globals/preQuotesView" pc="268435634" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="52" parent="globals/preQuotesView" pc="268435654" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="55" parent="globals/preQuotesView" pc="268435673" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="11" lineNum="56" parent="globals/preQuotesView" pc="268435709" symbol="onUpdate"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="12" lineNum="62" parent="globals/preQuotesView" pc="268435795" symbol="onHide"/>
 <entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="13" lineNum="7" parent="globals/preQuotesView" pc="268436167" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="13" lineNum="11" parent="globals/preQuotesView" pc="268436185" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="13" lineNum="14" parent="globals/preQuotesView" pc="268436329" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="13" lineNum="29" parent="globals/preQuotesView" pc="268436394" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\chris\\OneDrive\\Desktop\\preQuotes\\source\\preQuotesView.mc" id="13" lineNum="7" parent="globals/preQuotesView" pc="268436167" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="15" lineNum="2" parent="globals/Rez/Drawables" pc="268436402" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="16" lineNum="7" parent="globals/Rez/Fonts" pc="268436404" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="17" lineNum="9" parent="globals/Rez/JsonData" pc="268436406" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="15" lineNum="2" parent="globals/Rez/Drawables" pc="268436467" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="16" lineNum="7" parent="globals/Rez/Fonts" pc="268436469" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="17" lineNum="9" parent="globals/Rez/JsonData" pc="268436471" symbol="&lt;init&gt;"/>
 <entry filename="Rez" id="18" lineNum="18" parent="globals/Rez/Layouts" pc="268435800" symbol="MainLayout"/>
 <entry filename="Rez" id="18" lineNum="20" parent="globals/Rez/Layouts" pc="268435812" symbol="MainLayout"/>
 <entry filename="Rez" id="18" lineNum="21" parent="globals/Rez/Layouts" pc="268435931" symbol="MainLayout"/>
 <entry filename="Rez" id="18" lineNum="22" parent="globals/Rez/Layouts" pc="268435983" symbol="MainLayout"/>
 <entry filename="Rez" id="18" lineNum="24" parent="globals/Rez/Layouts" pc="268436138" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="11" parent="globals/Rez/Layouts" pc="268436405" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="20" lineNum="29" parent="globals/Rez/Menus" pc="268436403" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="21" lineNum="31" parent="globals/Rez/Strings" pc="268436407" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="22" lineNum="1" parent="globals/Rez" pc="268436378" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="22" lineNum="1" parent="globals/Rez" pc="268436378" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="19" lineNum="11" parent="globals/Rez/Layouts" pc="268436470" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="20" lineNum="29" parent="globals/Rez/Menus" pc="268436468" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="21" lineNum="31" parent="globals/Rez/Strings" pc="268436472" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="22" lineNum="1" parent="globals/Rez" pc="268436443" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="22" lineNum="1" parent="globals/Rez" pc="268436443" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -135,7 +135,7 @@
 <functionEntry accessMode="public" endPc="268435530" name="getInitialView" parent="preQuotesApp" startPc="268435489">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436377" name="&lt;init&gt;" parent="preQuotesApp" startPc="268436359">
+<functionEntry accessMode="protected" endPc="268436442" name="&lt;init&gt;" parent="preQuotesApp" startPc="268436424">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268435559" name="getApp" startPc="268435531">
@@ -158,32 +158,32 @@
 <functionEntry accessMode="public" endPc="268435799" name="onHide" parent="preQuotesView" startPc="268435795">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436358" name="&lt;init&gt;" parent="preQuotesView" startPc="268436167">
+<functionEntry accessMode="protected" endPc="268436423" name="&lt;init&gt;" parent="preQuotesView" startPc="268436167">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436402" name="&lt;init&gt;" parent="Drawables" startPc="268436402">
+<functionEntry accessMode="protected" endPc="268436467" name="&lt;init&gt;" parent="Drawables" startPc="268436467">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436404" name="&lt;init&gt;" parent="Fonts" startPc="268436404">
+<functionEntry accessMode="protected" endPc="268436469" name="&lt;init&gt;" parent="Fonts" startPc="268436469">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436406" name="&lt;init&gt;" parent="JsonData" startPc="268436406">
+<functionEntry accessMode="protected" endPc="268436471" name="&lt;init&gt;" parent="JsonData" startPc="268436471">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268436165" name="MainLayout" parent="Layouts" startPc="268435800">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436405" name="&lt;init&gt;" parent="Layouts" startPc="268436405">
+<functionEntry accessMode="protected" endPc="268436470" name="&lt;init&gt;" parent="Layouts" startPc="268436470">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436403" name="&lt;init&gt;" parent="Menus" startPc="268436403">
+<functionEntry accessMode="protected" endPc="268436468" name="&lt;init&gt;" parent="Menus" startPc="268436468">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436407" name="&lt;init&gt;" parent="Strings" startPc="268436407">
+<functionEntry accessMode="protected" endPc="268436472" name="&lt;init&gt;" parent="Strings" startPc="268436472">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436401" name="&lt;init&gt;" parent="Rez" startPc="268436378">
+<functionEntry accessMode="protected" endPc="268436466" name="&lt;init&gt;" parent="Rez" startPc="268436443">
 <documentation/>
 </functionEntry>
 </functions>
